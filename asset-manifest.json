@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjscrashcourse2021/static/css/main.7d32e2fe.chunk.css",
+    "main.js": "/reactjscrashcourse2021/static/js/main.b04d5ccc.chunk.js",
+    "main.js.map": "/reactjscrashcourse2021/static/js/main.b04d5ccc.chunk.js.map",
+    "runtime-main.js": "/reactjscrashcourse2021/static/js/runtime-main.77ac0cc0.js",
+    "runtime-main.js.map": "/reactjscrashcourse2021/static/js/runtime-main.77ac0cc0.js.map",
+    "static/js/2.f9be1d92.chunk.js": "/reactjscrashcourse2021/static/js/2.f9be1d92.chunk.js",
+    "static/js/2.f9be1d92.chunk.js.map": "/reactjscrashcourse2021/static/js/2.f9be1d92.chunk.js.map",
+    "static/js/3.f2092914.chunk.js": "/reactjscrashcourse2021/static/js/3.f2092914.chunk.js",
+    "static/js/3.f2092914.chunk.js.map": "/reactjscrashcourse2021/static/js/3.f2092914.chunk.js.map",
+    "index.html": "/reactjscrashcourse2021/index.html",
+    "static/css/main.7d32e2fe.chunk.css.map": "/reactjscrashcourse2021/static/css/main.7d32e2fe.chunk.css.map",
+    "static/js/2.f9be1d92.chunk.js.LICENSE.txt": "/reactjscrashcourse2021/static/js/2.f9be1d92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ac0cc0.js",
+    "static/js/2.f9be1d92.chunk.js",
+    "static/css/main.7d32e2fe.chunk.css",
+    "static/js/main.b04d5ccc.chunk.js"
+  ]
+}
